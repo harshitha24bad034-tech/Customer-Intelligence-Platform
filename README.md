@@ -116,7 +116,7 @@ Customer Intelligence Platform/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/harshitha24bad034-tech/Customer-Intelligence-Platform.git
 ```
 
 ### Step 2: Navigate to the project folder
